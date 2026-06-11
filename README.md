@@ -9,19 +9,19 @@ Real-time hand sign detection using YOLO and OpenCV.
 # Demo GIFs
 
 ### Demo 1
-![Demo 1](gifs/1.gif)
+![Demo 1](demo/1.gif)
 
 ### Demo 2
-![Demo 2](gifs/2.gif)
+![Demo 2](demo/2.gif)
 
 ### Demo 3
-![Demo 3](gifs/3.gif)
+![Demo 3](demo/3.gif)
 
 ### Demo 4
-![Demo 4](gifs/4.gif)
+![Demo 4](demo/4.gif)
 
 ### Demo 5
-![Demo 5](gifs/5.gif)
+![Demo 5](demo/5.gif)
 
 ---
 
