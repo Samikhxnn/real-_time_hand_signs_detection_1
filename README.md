@@ -32,7 +32,7 @@ A high-performance, real-time computer vision pipeline for hand sign and gesture
 ![Screenshot 2](screenshots/ss5.png)
 
 ### Screenshot 3
-![Screenshot 3](screenshots/ss4.png)
+![Screenshot 3](screenshots/ss6.png)
 
 ---
 
