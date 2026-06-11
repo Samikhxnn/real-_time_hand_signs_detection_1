@@ -31,7 +31,7 @@ Real-time hand sign detection using YOLO and OpenCV.
 ![Screenshot 1](screenshots/ss1.png)
 
 ### Screenshot 2
-![Screenshot 2](screenshots/ss2.png)
+![Screenshot 2](screenshots/ss5.png)
 
 ### Screenshot 3
 ![Screenshot 3](screenshots/ss4.png)
